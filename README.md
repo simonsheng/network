@@ -80,4 +80,4 @@
 
 ## Timeline
 
-![timeline](timeline.png)
+![timeline](assets/timeline.png)
